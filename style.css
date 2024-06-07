@@ -1,0 +1,61 @@
+#div1{
+    width: 440px;
+    height: 50px;
+    background-color: green;
+}
+#div2{
+    width: 40px;
+    height: 400px;
+    background-color: red;
+}
+
+#div3{
+    width: 440px;
+    height: 50px;
+    background-color: yellow;
+}
+
+#div4{
+    width: 40px;
+    height: 400px;
+    background-color: purple;
+    position: relative;
+    top: -450px;
+    left: 400px;
+}
+
+#div5{
+    width: 360px;
+    height: 400px;
+    background-color: blue;
+    position: relative;
+    top: -850px;
+    left: 40px;
+
+}
+
+#botonsaludo{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    background-color: white;
+    font-size: 20px;
+    margin: 0px;
+    color: red;
+}
+
+#saludo{
+    position: relative;
+    top: -55px;
+    left: 170px;
+}
+
+#indicacionsaludo{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
